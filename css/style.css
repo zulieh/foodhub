@@ -1,0 +1,37 @@
+.brand-font {
+    font-family: Brush Script MT;
+}
+.brand-font:hover {
+    text-decoration: none;
+    color: inherit;
+
+}
+.space {
+    margin-right: 3rem;
+    color: white;
+}
+.move > li {
+    margin-right: 2rem;
+}
+.icon-space > * {
+    padding-left: 20px;
+    cursor: pointer;
+    color:white;
+}
+.slide-img {
+    height: 530px;
+    width: 70%;
+}
+
+.margin {
+    margin-top: 40px;
+}
+
+/* @media() {
+    .slide-img {
+        height: 330px;
+    }
+} */
+.footer-position{
+    text-align: center;
+}
