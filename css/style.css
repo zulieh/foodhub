@@ -4,7 +4,12 @@
 .brand-font:hover {
     text-decoration: none;
     color: inherit;
+}
 
+.footer-content {
+    background-color: rgb(19, 18, 18);
+    color: white;
+    
 }
 .space {
     margin-right: 3rem;
@@ -12,6 +17,9 @@
 }
 .move > li {
     margin-right: 2rem;
+}
+.menu{
+    color:white;
 }
 .icon-space > * {
     padding-left: 20px;
@@ -22,11 +30,33 @@
     height: 530px;
     width: 70%;
 }
+.cat >*{
+    width:90%;
+    height:25px;
+    
+}
+.mage{
+    display:flex-right;
+}
+.box{
+    height:300px;
+    width:100%;
+}
 
 .margin {
     margin-top: 40px;
 }
-
+.margina{
+    margin-top: 50px;
+}
+.marginn >*{
+    margin-top: 20px;
+    margin-right:2rem;
+}
+.co{
+    text-decoration: none;
+    color:white;
+}
 /* @media() {
     .slide-img {
         height: 330px;
@@ -34,4 +64,76 @@
 } */
 .footer-position{
     text-align: center;
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    border-top: 1px solid gray;
+    padding: 20px;
+
+}
+.media{
+    align-content: right;
+    margin-right: 4rem;
+        
+}
+.med{
+    
+    list-style: none;
+    display: flex;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    height: 70px;
+    border-top: 1px solid gray;
+    padding: 20px;
+   
+    
+    
+}
+.me{
+    color: white;
+    background-color: black;
+    font-family: Brush Script MT;
+    margin-right: 4rem;
+    font-size:1.05rem;
+
+}
+.mi{
+    list-style: none;
+    
+}
+.mo{
+    color:white;
+    
+}
+
+
+body{
+    background-image: url('image/des7.jpg');
+}
+.cad{
+    display: inline-block;
+}
+.myTab{
+    width:100%;
+    height:20%;
+    border-block-end: 10%;
+    border-block-end-color: rgb(97, 3, 3);
+}
+.gay{
+    text-align:center;
+    
+}
+.jump{
+    background-color: brown;
+}
+.main{
+    text-align: center;
+    font-family: Brush Script MT;
+    font-size:6rems;
+}
+.our{
+    text-align: center;
+    font-family: Brush Script MT;
+    font-size: 9rems;
 }
