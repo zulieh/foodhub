@@ -1,4 +1,4 @@
- MyFoodhub
+MyFoodhub
 
 Myfoodhub is a website for Grel event plus where users can check and see different types of food and event services Grel offers.
 
@@ -16,4 +16,3 @@ Myfoodhub is a website for Grel event plus where users can check and see differe
 * Gallery page:shows carousel of different event decoration and also    images.
 * Contact Page: shows our info,social media links and also customers feedback form .
  
-
